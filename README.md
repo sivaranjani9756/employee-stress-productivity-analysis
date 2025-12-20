@@ -58,6 +58,4 @@ This analysis enables HR and leadership teams to:
 - Improve workforce productivity
 - Design better stress management strategies
 
-## Author
-**Sivaranjani Koduru**  
-Data Analyst | SQL | Python | Power BI
+
